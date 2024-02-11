@@ -1,0 +1,10 @@
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height:55vh;
+    margin-top:50%;
+    width:42vh;
+    padding:5px;
+}
